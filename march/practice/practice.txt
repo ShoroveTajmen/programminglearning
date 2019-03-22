@@ -1,0 +1,5 @@
+return_type funtion_name(parameters){
+    
+}
+
+function use kore, loop use kore, 1~100 sokhagulor jogfol.
